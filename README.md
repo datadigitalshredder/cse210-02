@@ -38,6 +38,6 @@ cse210-02                        (project repository)
 # Team members
 Atubo Gift - atu21001@byui.edu
 Diana Guerra - urb21002@byui.edu -- (Organized the team; helped structure the game).
-Innocent Hove - hov21003@byui.edu -- (Set up the repo; started the basic code. Completed the entire code)
+Innocent Hove - hov21003@byui.edu -- (Set up the repo; started the basic code.)
 Mark Colonia - markcolonia@gmail.com
 Ty Frandsen - tytwig45@gmail.com
